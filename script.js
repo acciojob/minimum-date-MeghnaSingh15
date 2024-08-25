@@ -9,8 +9,6 @@ function minDate(dates) {
     return `${year}/${month}/${day}`;
 }
 
-console.log(minDate(dates)); 
-
 }
 
 // Do not change the code
